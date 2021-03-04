@@ -1,8 +1,8 @@
-# suetonius-caligula
+# tacitus-annales-4
 
-[https://rchildree.github.io/suetonius-caligula/](https://rchildree.github.io/suetonius-caligula)
+[https://rchildree.github.io/tacitus-annales-4/](https://rchildree.github.io/tacitus-annales-4)
 
-A student reader’s edition of Suetonius, *Life of Caligula*, with morphological tagging and edited by Randall Childree.
+A reader’s edition of Tacitus, *Annales* 4, with morphological tagging and edited by Randall Childree.
 
 Featuring corrected and adjusted vocabulary data from [The Bridge](https://bridge.haverford.edu).
 
